@@ -8,6 +8,7 @@ class Rads extends ConsoleProgram {
   public void run() {
     
     // start coding here
+    int intDegrees = readInt("What degree: ");
     
   }
 }
